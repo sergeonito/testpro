@@ -1,0 +1,335 @@
+[
+  {
+    "uri": "features/upwork/became_freelancer.feature",
+    "id": "became-a-freelancer",
+    "keyword": "Feature",
+    "name": "Became a Freelancer",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "keyword": "Background",
+        "name": "",
+        "description": "",
+        "line": 3,
+        "type": "background",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Go to upwork.com",
+            "line": 4,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 43509
+            }
+          }
+        ]
+      },
+      {
+        "id": "became-a-freelancer;register-new-freelancer",
+        "keyword": "Scenario",
+        "name": "Register new freelancer",
+        "description": "",
+        "line": 6,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I click become a freelancer button on Header section",
+            "line": 7,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Wait 7 seconds",
+            "line": 8,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Fill first name field with 'John'",
+            "line": 9,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Fill last name field with 'Doe'",
+            "line": 10,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I click on select country",
+            "line": 11,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Type 'Albania'",
+            "line": 12,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Wait 2 seconds",
+            "line": 13,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Press enter",
+            "line": 14,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Fill email field with 'examples@examples.com'",
+            "line": 15,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Fill username field with 'foobar12345'",
+            "line": 16,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Fill password field with 'foobar12345'",
+            "line": 17,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I click on useful email checkbox",
+            "line": 18,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I click on user agreement checkbox",
+            "line": 19,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I click on get started button",
+            "line": 20,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uri": "features/upwork/header.feature",
+    "id": "ui-elements",
+    "keyword": "Feature",
+    "name": "UI Elements",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "keyword": "Background",
+        "name": "",
+        "description": "",
+        "line": 3,
+        "type": "background",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Go to upwork.com",
+            "line": 4,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 8783
+            }
+          }
+        ]
+      },
+      {
+        "id": "ui-elements;header-section-should-have-all-it-elements",
+        "keyword": "Scenario",
+        "name": "Header section should have all it elements",
+        "description": "",
+        "line": 6,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Then ",
+            "name": "I should see logo on Header section",
+            "line": 7,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see search box on Header section",
+            "line": 8,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "I should see become a freelancer button on Header section",
+            "line": 9,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Background",
+        "name": "",
+        "description": "",
+        "line": 3,
+        "type": "background",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Go to upwork.com",
+            "line": 4,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 10720
+            }
+          }
+        ]
+      },
+      {
+        "id": "ui-elements;become-a-freelancer-functionality",
+        "keyword": "Scenario",
+        "name": "Become a freelancer functionality",
+        "description": "",
+        "line": 11,
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "When ",
+            "name": "I click become a freelancer button on Header section",
+            "line": 12,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "And ",
+            "name": "Wait 7 seconds",
+            "line": 13,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "I should be redirected to 'signup/create-account/freelancer_direct' path",
+            "line": 14,
+            "match": {
+              "location": "/Users/sergiotalas/.rvm/gems/ruby-2.3.1@testpro/gems/cucumber-2.4.0/lib/cucumber/step_match.rb:98"
+            },
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
